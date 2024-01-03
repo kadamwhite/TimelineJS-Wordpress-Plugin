@@ -1,7 +1,7 @@
 {
   "name": "nuknightlab/timelinejs",
   "description": "NU Knight Lab TimelineJS",
-  "type": "wordpress-theme",
+  "type": "wordpress-plugin",
   "require": {
     "pablo-sg-pacheco/wp-namespace-autoloader": "dev-master"
   },
